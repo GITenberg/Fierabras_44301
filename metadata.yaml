@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 44301-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44301#Fierabras
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-11-27'
 gutenberg_type: Text
