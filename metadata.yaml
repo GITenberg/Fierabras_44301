@@ -1,0 +1,28 @@
+_repo: Fierabras_44301
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Bagnyon, Jehan
+    birthdate: 1412
+    gutenberg_agent_id: '42680'
+    url: http://www.gutenberg.org/2009/agents/42680
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Bagnyon
+covers:
+- cover_type: archival
+  image_path: 44301-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44301'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Charlemagne, Emperor, 742-814 -- Romances'
+- !lcsh 'France -- History -- To 987 -- Romances'
+title: Fierabras
+url: http://www.gutenberg.org/ebooks/44301
